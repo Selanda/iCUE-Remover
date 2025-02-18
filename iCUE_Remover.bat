@@ -1,3 +1,4 @@
+@ECHO OFF
 taskkill /f /im iCUE.exe
 taskkill /f /im QmlRenderer.exe
 taskkill /f /im CorsairGamingAudioCfgService64.exe
